@@ -1,0 +1,10 @@
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Debug\CRUD.exe.config
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.Resources.resources
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.Cache
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\bin\Debug\CRUD.xml
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.xml
+c:\users\ahsan\documents\visual studio 2012\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
